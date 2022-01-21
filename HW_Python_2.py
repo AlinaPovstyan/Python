@@ -46,8 +46,8 @@ print("result_mp_s_root = ", result_mp_s_root)
 
 # 19. Присвоить переменной item_1 odd значение
 #  20. Присвоить переменной item_2 even значение
-item_1 = 25
-item_2 = 6
+item_1 = 6
+item_2 = 25
 
 #21. Создать переменную result_division в которой вы разделите item_1 на item_2.
 # 22. Вывести result_division в консоль.
